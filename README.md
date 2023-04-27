@@ -1,4 +1,4 @@
-#Tac Tac Toe Machine Learning Project
+# Tac Tac Toe Machine Learning Project
 
 The following project is self-interested project, playing with reinforcement learning with simple Tic Tac Toe game.  
 
